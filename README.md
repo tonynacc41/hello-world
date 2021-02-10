@@ -1,2 +1,2 @@
 # hello-world
-Lab team 5 repository created as a place to store coding assignments for my computer science class
+Hello all! My name is Tony Naccarato. I enjoy pina coladas and getting caught in the rain. However, im not into yoga and posses half a brain.
